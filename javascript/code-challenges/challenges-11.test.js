@@ -43,7 +43,7 @@ For example, count(5, [[1, 3, 5, 7, 9], [5, 5, 5], [1, 2, 3]]) returns 4.
 ------------------------------------------------------------------------------------------------ */
 
 const count = (target, input) => {
-  // Solution code here...
+
   let count =0 ;
   for(let i =0 ; i<input.length ;i++){
 for(let y =0 ; y< input.length ; y++ ){
@@ -78,7 +78,7 @@ for(let y =0 ; y < input[i].length ; y++ ){
 
   }
   return count ;
-  // Solution code here...
+
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -103,7 +103,7 @@ const divisibleByFiveTwoToThePower = (input) => {
       });
   });
   return x;
-  // Solution code here...
+
 };
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 5
