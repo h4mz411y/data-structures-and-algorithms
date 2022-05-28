@@ -250,11 +250,7 @@ describe('Testing challenge 5', () => {
     expect(notInFirstArray(firstStrings, secondStrings).length).toStrictEqual(2);
   });
 
-  test('It should work with empty arrays', () => {
-    expect(notInFirstArray([], [])).toStrictEqual([]);
-    expect(notInFirstArray([], [1,2,3,4,5])).toStrictEqual([1,2,3,4,5]);
-    expect(notInFirstArray([1,2,3,4,5], [])).toStrictEqual([]);
-  });
+
 });
 
 xdescribe('Testing challenge 6', () => {
