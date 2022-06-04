@@ -5,3 +5,6 @@
 
 # Code challenge 02
  * [ insertShiftArray](https://github.com/h4mz411y/data-structures-and-algorithms/tree/main/javascript/insertShiftArray)
+
+# Code challenge 03
+ * [Linked-list](https://github.com/h4mz411y/data-structures-and-algorithms/tree/main/javascript/linked-list)
