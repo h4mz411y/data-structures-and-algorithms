@@ -11,5 +11,17 @@
 Within your Linked List class, include a head property.
 Upon instantiation, an empty Linked List should be created.
 
+
 # Approach & Efficiency
+
+* LinkedList.prototype.insert *O*(1)
+* LinkedList.prototype.includes *O*(N)
+* LinkedList.prototype.toString *O*(N)
+
+# Test
+![test](./teestllinked.PNG)
+
+
+
+# API
 
