@@ -10,5 +10,5 @@
  * [Linked-list](https://github.com/h4mz411y/data-structures-and-algorithms/tree/main/javascript/linked-list)
 
 # Code challenge 04
- * [Binary-search](https://github.com/h4mz411y/data-structures-and-algorithms/tree/main/javascript/linked-list)
+ * [Binary-search](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/binary%20search/READEME.md)
 
