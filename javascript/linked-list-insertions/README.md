@@ -24,3 +24,6 @@ Bulding a Node class & a linkedList class wich have the following methods
 ![image](./resources/linkedlist02test.PNG)
 
 # Submission details
+
+## [Pull request ](https://github.com/h4mz411y/data-structures-and-algorithms/pull/27)
+
