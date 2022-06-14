@@ -6,8 +6,8 @@ Extending an Implementation whith the Follwing methods
 
 # Whiteboard Process
 
-![image](./resources/linkedlist02Whiteboard.PNG)
-
+![image](./resources/LLLLLLLLLLLL01.PNG)
+![image](./resources/lllllllllllllllllllllllll02.PNG)
 
 
 # Approach & Efficiency
