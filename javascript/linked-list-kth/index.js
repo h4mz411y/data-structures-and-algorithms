@@ -10,7 +10,7 @@ class LinkedList {
   constructor() {
     this.tail = null;
     this.head = null;
-    this.size = 0;
+    this.length = 0;
   }
 
   addFirst(data) {
@@ -19,7 +19,7 @@ class LinkedList {
       this.tail = new Node(data);
     } else {
       this.head = new Node(data, this.head);
-      this.size++
+      this.length++
 
     }
   }
@@ -35,14 +35,14 @@ class LinkedList {
   }
 
   lastkth(k) {
-    if (k > this.size) {
+    if (k > this.length) {
       return "Exception"
     }
     if (k < 0) {
-      return "K IN NEGATIVE"
+      return "Kth value is negative"
     }
     else {
-      let place = this.size - k
+      let place = this.length - k
       let current = this.head;
       let counter = 0
       while (current) {

@@ -3,8 +3,8 @@
 // Require our linked list implementation
 const LinkedLilst = require('../index');
 
-describe('Where k is greater than the length of the linked list', () => {
-  test("create a linked list",()=>{
+describe('Test ', () => {
+  test("Where k is greater than the length of the linked list",()=>{
     let list=new LinkedLilst();
     list.addFirst(1);
     list.addFirst(5);
@@ -23,7 +23,7 @@ describe('Where k is greater than the length of the linked list', () => {
     list.addFirst(1);
     list.addFirst(5);
     list.addFirst(6);
-    expect(list.lastkth(-3)).toEqual("K IN NEGATIVE");
+    expect(list.lastkth(-3)).toEqual("Kth value is negative");
   })
 
   test ("Where the linked list is of a size 1",()=>{
