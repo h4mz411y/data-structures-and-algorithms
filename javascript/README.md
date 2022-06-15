@@ -15,3 +15,7 @@
  # Code challenge 06
  * [linked-list-insertions](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/linked-list-insertions/README.md)
 
+  # Code challenge 07
+ * [linked-list-kth](https://github.com/h4mz411y/data-structures-and-algorithms/tree/main/javascript/linked-list-kth)
+
+
