@@ -15,6 +15,7 @@ Zip the two linked lists together into one so that the nodes alternate between t
 
 #### Big O
 * Time =  o(n)
+
 * Space = o(1)
 
 # Test
