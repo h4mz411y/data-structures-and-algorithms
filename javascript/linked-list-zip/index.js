@@ -12,7 +12,7 @@ class LinkedList {
       this.tail=null;
       this.size=0;
   }
-  addLast(value){
+  addToLast(value){
       let node =new Node(value)
       if(this.head===null){
           this.head=node;
@@ -25,7 +25,7 @@ class LinkedList {
       }
       this.size++
   }
-  //print the list
+
   print(){
       let current=this.head;
       let printer=[]
@@ -42,22 +42,22 @@ class LinkedList {
       let route=0
       while(current&&newValue){
           if(route%2==0){
-              list3.addLast(current.value)
+              list3.addToLast(current.value)
               current=current.next
               route++
           }
           else {
-              list3.addLast(newValue.value)
+              list3.addToLast(newValue.value)
               newValue=newValue.next
               route++
           }
       }
       while(current){
-          list3.addLast(current.value)
+          list3.addToLast(current.value)
           current=current.next
       }
       while(newValue){
-          list3.addLast(newValue.value)
+          list3.addToLast(newValue.value)
           newValue=newValue.next
 
       }
