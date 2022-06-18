@@ -18,4 +18,8 @@
   # Code challenge 07
  * [linked-list-kth](https://github.com/h4mz411y/data-structures-and-algorithms/tree/main/javascript/linked-list-kth)
 
+   # Code challenge 08
+ * [linked-list-zip](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/linked-list-zip/README.md)
+
+
 
