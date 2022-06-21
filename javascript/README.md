@@ -21,8 +21,10 @@
    # Code challenge 08
  * [linked-list-zip](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/linked-list-zip/README.md)
 
+    # Code challenge 09
+ * [Linked List  palindrome](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/stack-and-queue/README.md)
 
-    # Code challenge 011
+     # Code challenge 10
  * [stack-and-queue](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/stack-and-queue/README.md)
 
 
