@@ -40,3 +40,8 @@ Should raise exception when called on empty stack
 is empty
 Arguments: none
 Returns: Boolean indicating whether or not the queue is empty
+
+## Test
+
+![stack&queue_test](./stack%26queue_test.PNG)
+[Repositry_link](https://github.com/h4mz411y/data-structures-and-algorithms/tree/main/javascript/stack-and-queue)
