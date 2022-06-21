@@ -22,4 +22,8 @@
  * [linked-list-zip](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/linked-list-zip/README.md)
 
 
+    # Code challenge 011
+ * [stack-and-queue](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/stack-and-queue/README.md)
+
+
 
