@@ -28,4 +28,7 @@
  * [stack-and-queue](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/stack-and-queue/README.md)
 
 
+     # Code challenge 11
+ * [stack-queue-pseudo](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/stack-queue-pseudo/README.md)
+
 
