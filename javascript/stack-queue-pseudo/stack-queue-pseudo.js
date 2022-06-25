@@ -1,4 +1,4 @@
-const Stack=require("./node")
+const Stack=require("./stacks")
 
 module.exports= class Queue {
     constructor() {
