@@ -31,4 +31,7 @@
      # Code challenge 11
  * [stack-queue-pseudo](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/stack-queue-pseudo/README.md)
 
+      # Code challenge 12
+ * [stack-queue-animal-shelter](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/stack-queue-animal-shelter/README.md)
+
 
