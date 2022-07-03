@@ -43,7 +43,7 @@
  * [ChatApp](https://github.com/h4mz411y/project1)
 
 
-       # Code challenge 15
+    # Code challenge 15
  * [Binary-ree-and-BST-Implementation](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/Binary-ree-and-BST-Implementation/README.md)
 
 
