@@ -46,4 +46,7 @@
     # Code challenge 15
  * [Binary-ree-and-BST-Implementation](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/Binary-ree-and-BST-Implementation/README.md)
 
+ # Code challenge 16
+ * [Tree-Max](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/Tree-max/README.md)
+
 
