@@ -49,4 +49,7 @@
  # Code challenge 16
  * [Tree-Max](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/Tree-max/README.md)
 
+  # Code challenge 17
+ * [Tree-breath-first](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/Tree-bredth/README.md)
+
 
