@@ -1,52 +1,40 @@
-"use strict";
-
+'use strict';
 class BinaryTree {
   constructor(root = null) {
     this.root = root;
   }
-
-  PreOrder() {
+  preOrder() {
     let result = [];
     let traverse = (node) => {
       result.push(node.value);
-      if (node.left) {
-        traverse(node.left);
-      }
-      if (node.right) {
-        traverse(node.right);
-      }
-    };
+      if (node.left) traverse(node.left);
+      if (node.right) traverse(node.right);
+    }
     traverse(this.root);
     return result;
   }
 
-  InOrder() {
+  inOrder() {
     let result = [];
     let traverse = (node) => {
-      if (node.left) {
-        traverse(node.left);
-      }
+
+      if (node.left) traverse(node.left);
       result.push(node.value);
-      if (node.right) {
-        traverse(node.right);
-      }
-    };
-    traverse(this.root);
+      if (node.right) traverse(node.right);
+    }
+    traverse(this.root)
     return result;
   }
 
-  PostOrder() {
+  postOrder() {
     let result = [];
     let traverse = (node) => {
-      if (node.left) {
-        traverse(node.left);
-      }
-      if (node.right) {
-        traverse(node.right);
-      }
+
+      if (node.left) traverse(node.left);
+      if (node.right) traverse(node.right);
       result.push(node.value);
-    };
-    traverse(this.root);
+    }
+    traverse(this.root)
     return result;
   }
 }
