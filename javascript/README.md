@@ -55,4 +55,7 @@
 # Code challenge 18
  * [Fizz_Buzz](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/fizzbuzz/README.md)
 
+ # Code challenge 26
+ * [sorting-insertion](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/sorting-insertion/README.md)
+
 
