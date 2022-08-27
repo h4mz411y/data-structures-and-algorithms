@@ -1,6 +1,6 @@
 'use strict';
-const BinaryTree = require('../trees/BinaryTree/binary-tree');
-const Node = require('../trees/node')
+const BinaryTree = require('./binary-tree');
+const Node = require('./node')
 
 function tree_intersection(tree1, tree2) {
     let arr1 = tree1.preOrder();
