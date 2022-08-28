@@ -1,6 +1,6 @@
 'use strict';
-const BinaryTree = require('../trees/BinaryTree/binary-tree');
-const Node = require('../trees/node')
+const BinaryTree = require('./binary-tree');
+const Node = require('./node')
 
 function tree_intersection(tree1, tree2) {
     let arr1 = tree1.preOrder();
@@ -16,6 +16,6 @@ function tree_intersection(tree1, tree2) {
     if (commonValues.length) {
         return commonValues;
     }else {
-        return 'There is no common values'
+        return 'No common values'
     }}
 module.exports = tree_intersection;
