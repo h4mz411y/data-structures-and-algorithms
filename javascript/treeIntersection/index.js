@@ -16,6 +16,6 @@ function tree_intersection(tree1, tree2) {
     if (commonValues.length) {
         return commonValues;
     }else {
-        return 'There is no common values'
+        return 'No common values'
     }}
 module.exports = tree_intersection;
