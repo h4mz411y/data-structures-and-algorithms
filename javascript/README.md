@@ -59,3 +59,7 @@
  * [sorting-insertion](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/sorting-insertion/README.md)
 
 
+ # Code challenge 36
+ * [Graphs](https://github.com/h4mz411y/data-structures-and-algorithms/blob/main/javascript/graphs/README.md)
+
+
